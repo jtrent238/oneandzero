@@ -1,0 +1,18 @@
+{
+  "name": "@jtrent238/oneandzero",
+  "version": "1.0.0.0",
+  "description": "Ones and Zeros",
+  "license": "MIT",
+  "repository": "jtrent238/oneandzero",
+  "main": "index.js",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",,
+	"one",
+	"zero",
+	"oneandzero",
+    "jtrent238"
+  ]
+}
